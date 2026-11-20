@@ -1,0 +1,3 @@
+- ComLab (Computational Lab Mechanics or CML) is a finite element solver derived from Nastran-95 and subsequently improved by Harry Schaeffer.
+- It is no longer being developed and no longer officially supported. Source code is not available.
+- The package contains the compiled files, install instructions, manual, improvements compared to Nastran-95, and agreements.
